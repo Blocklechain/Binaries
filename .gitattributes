@@ -1,0 +1,7 @@
+bench_blockle filter=lfs diff=lfs merge=lfs -text
+blockled filter=lfs diff=lfs merge=lfs -text
+blockle-cli filter=lfs diff=lfs merge=lfs -text
+blockle-qt filter=lfs diff=lfs merge=lfs -text
+blockle-tx filter=lfs diff=lfs merge=lfs -text
+test_blockle filter=lfs diff=lfs merge=lfs -text
+blockle-binaries.tar.gz filter=lfs diff=lfs merge=lfs -text
